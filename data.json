@@ -1,0 +1,232 @@
+{
+ "built_at": "16 Nov 2026, 20:44 MYT",
+ "day": 47,
+ "days": 92,
+ "to_date": {
+  "weeks": 6,
+  "points": 13.22,
+  "total": 162.77,
+  "per_point": 12.31,
+  "churn_per_point": 10.8
+ },
+ "cap": 15.0,
+ "weeks": [
+  {
+   "week": 1,
+   "label": "01 Oct-08 Oct",
+   "points": 3.03,
+   "trips": 9,
+   "churn": 9.3,
+   "other": 0.0,
+   "total": 9.3,
+   "per_point": 3.07
+  },
+  {
+   "week": 2,
+   "label": "08 Oct-15 Oct",
+   "points": 1.71,
+   "trips": 0,
+   "churn": 0.0,
+   "other": 0.0,
+   "total": 0.0,
+   "per_point": 0.0
+  },
+  {
+   "week": 3,
+   "label": "15 Oct-22 Oct",
+   "points": 2.57,
+   "trips": 33,
+   "churn": 51.39,
+   "other": 0.0,
+   "total": 51.39,
+   "per_point": 20.0
+  },
+  {
+   "week": 4,
+   "label": "22 Oct-29 Oct",
+   "points": 0.4,
+   "trips": 6,
+   "churn": 8.26,
+   "other": 0.0,
+   "total": 8.26,
+   "per_point": 20.64
+  },
+  {
+   "week": 5,
+   "label": "29 Oct-05 Nov",
+   "points": 3.46,
+   "trips": 59,
+   "churn": 69.65,
+   "other": 20.0,
+   "total": 89.65,
+   "per_point": 25.91
+  },
+  {
+   "week": 6,
+   "label": "05 Nov-12 Nov",
+   "points": 2.05,
+   "trips": 7,
+   "churn": 4.17,
+   "other": 0.0,
+   "total": 4.17,
+   "per_point": 2.04
+  }
+ ],
+ "board": [
+  {
+   "who": "@0xbaed",
+   "date": "2026-11-15",
+   "venue": "Arcus",
+   "per_point": 0.19,
+   "pts_per_1m": 170.7,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/0xbaed/status/2121601764390469916",
+   "claims": 26
+  },
+  {
+   "who": "@wasabu0x",
+   "date": "2026-11-15",
+   "venue": "Lighter",
+   "per_point": 2.8,
+   "pts_per_1m": null,
+   "derived": false,
+   "vs": null,
+   "link": "https://x.com/wasabu0x/status/2121632404515504230",
+   "claims": 18
+  },
+  {
+   "who": "@aiexey_stark",
+   "date": "2026-11-14",
+   "venue": "Variational",
+   "per_point": 9.0,
+   "pts_per_1m": null,
+   "derived": false,
+   "vs": "cheaper",
+   "link": "https://x.com/AIexey_Stark/status/2121285764235276310",
+   "claims": 42
+  },
+  {
+   "who": "@absoluto92",
+   "date": "2026-11-14",
+   "venue": "Bitbase",
+   "per_point": 0.15,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/Absoluto92/status/2121330967595843705",
+   "claims": 21
+  },
+  {
+   "who": "@ryuzaki_sei",
+   "date": "2026-11-14",
+   "venue": "Variational",
+   "per_point": 4.0,
+   "pts_per_1m": 16.1,
+   "derived": true,
+   "vs": "cheaper",
+   "link": "https://x.com/Ryuzaki_SEI/status/2121358182786404648",
+   "claims": 34
+  },
+  {
+   "who": "@zeus00nn",
+   "date": "2026-11-13",
+   "venue": "Variational",
+   "per_point": 7.5,
+   "pts_per_1m": 37.5,
+   "derived": true,
+   "vs": "cheaper",
+   "link": "https://x.com/Zeus00nn/status/2121062947241996589",
+   "claims": 12
+  },
+  {
+   "who": "@0xriim",
+   "date": "2026-11-12",
+   "venue": "Arcus",
+   "per_point": 2.36,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/0xRiim/status/2120617660329120237",
+   "claims": 10
+  },
+  {
+   "who": "@pointsgoblin",
+   "date": "2026-11-10",
+   "venue": "Variational",
+   "per_point": 17.44,
+   "pts_per_1m": null,
+   "derived": false,
+   "vs": "dearer",
+   "link": "https://x.com/PointsGoblin/status/2119839476218204224",
+   "claims": 1
+  },
+  {
+   "who": "@me_cool_off",
+   "date": "2026-11-02",
+   "venue": "Lighter",
+   "per_point": 2.3,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/me_cool_off/status/2116960721292472797",
+   "claims": 69
+  },
+  {
+   "who": "@diditrading",
+   "date": "2026-11-02",
+   "venue": "Lighter",
+   "per_point": 2.0,
+   "pts_per_1m": null,
+   "derived": false,
+   "vs": null,
+   "link": "https://x.com/DidiTrading/status/2116965769229595108",
+   "claims": 4
+  },
+  {
+   "who": "@0xchewa",
+   "date": "2026-10-28",
+   "venue": "Lighter",
+   "per_point": 3.9,
+   "pts_per_1m": null,
+   "derived": false,
+   "vs": null,
+   "link": "https://x.com/0xchewa/status/2115078834449940803",
+   "claims": 17
+  },
+  {
+   "who": "@givenoxbt",
+   "date": "2026-10-21",
+   "venue": "TxFlow",
+   "per_point": 0.159,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/givenoxbt/status/2112628902145441861",
+   "claims": 36
+  },
+  {
+   "who": "@airdrop_guard",
+   "date": "2026-10-16",
+   "venue": "Variational",
+   "per_point": null,
+   "pts_per_1m": 1.9,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/airdrop_guard/status/2110892106558710181",
+   "claims": 2
+  },
+  {
+   "who": "@trippan0",
+   "date": "2026-10-02",
+   "venue": "Variational",
+   "per_point": 2.6,
+   "pts_per_1m": null,
+   "derived": false,
+   "vs": "cheaper",
+   "link": "https://x.com/trippan0/status/2105846312776470813",
+   "claims": 7
+  }
+ ],
+ "posts": []
+}
