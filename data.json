@@ -1,5 +1,5 @@
 {
- "built_at": "17 Nov 2026, 00:14 MYT",
+ "built_at": "17 Nov 2026, 11:20 MYT",
  "day": 48,
  "days": 92,
  "to_date": {
@@ -96,6 +96,28 @@
    "claims": 18
   },
   {
+   "who": "@ryuzaki_sei",
+   "date": "2026-11-14",
+   "venue": "Variational",
+   "per_point": 4.0,
+   "pts_per_1m": 16.1,
+   "derived": true,
+   "vs": "cheaper",
+   "link": "https://x.com/Ryuzaki_SEI/status/2121358182786404648",
+   "claims": 35
+  },
+  {
+   "who": "@absoluto92",
+   "date": "2026-11-14",
+   "venue": "Bitbase",
+   "per_point": 0.15,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/Absoluto92/status/2121330967595843705",
+   "claims": 22
+  },
+  {
    "who": "@aiexey_stark",
    "date": "2026-11-14",
    "venue": "Variational",
@@ -107,28 +129,6 @@
    "claims": 42
   },
   {
-   "who": "@absoluto92",
-   "date": "2026-11-14",
-   "venue": "Bitbase",
-   "per_point": 0.15,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/Absoluto92/status/2121330967595843705",
-   "claims": 21
-  },
-  {
-   "who": "@ryuzaki_sei",
-   "date": "2026-11-14",
-   "venue": "Variational",
-   "per_point": 4.0,
-   "pts_per_1m": 16.1,
-   "derived": true,
-   "vs": "cheaper",
-   "link": "https://x.com/Ryuzaki_SEI/status/2121358182786404648",
-   "claims": 34
-  },
-  {
    "who": "@zeus00nn",
    "date": "2026-11-13",
    "venue": "Variational",
@@ -137,7 +137,7 @@
    "derived": true,
    "vs": "cheaper",
    "link": "https://x.com/Zeus00nn/status/2121062947241996589",
-   "claims": 12
+   "claims": 13
   },
   {
    "who": "@0xriim",
@@ -170,7 +170,7 @@
    "derived": true,
    "vs": null,
    "link": "https://x.com/me_cool_off/status/2116960721292472797",
-   "claims": 69
+   "claims": 70
   },
   {
    "who": "@diditrading",
