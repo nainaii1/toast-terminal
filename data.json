@@ -1,5 +1,5 @@
 {
- "built_at": "18 Nov 2026, 00:45 MYT",
+ "built_at": "18 Nov 2026, 14:09 MYT",
  "day": 49,
  "days": 92,
  "to_date": {
@@ -74,6 +74,39 @@
  ],
  "board": [
   {
+   "who": "@givenoxbt",
+   "date": "2026-11-18",
+   "venue": "TxFlow",
+   "per_point": 0.149,
+   "pts_per_1m": 2881.6,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/givenoxbt/status/2122787995044683968",
+   "claims": 37
+  },
+  {
+   "who": "@me_cool_off",
+   "date": "2026-11-18",
+   "venue": "TxFlow",
+   "per_point": 0.06,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/me_cool_off/status/2122684062003302407",
+   "claims": 72
+  },
+  {
+   "who": "@matyv_7",
+   "date": "2026-11-18",
+   "venue": "TxFlow",
+   "per_point": null,
+   "pts_per_1m": 7251.8,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/matyv_7/status/2122664514847965506",
+   "claims": 11
+  },
+  {
    "who": "@0xbaed",
    "date": "2026-11-15",
    "venue": "Arcus",
@@ -104,7 +137,7 @@
    "derived": true,
    "vs": "cheaper",
    "link": "https://x.com/Ryuzaki_SEI/status/2121358182786404648",
-   "claims": 35
+   "claims": 36
   },
   {
    "who": "@absoluto92",
@@ -115,7 +148,7 @@
    "derived": true,
    "vs": null,
    "link": "https://x.com/Absoluto92/status/2121330967595843705",
-   "claims": 22
+   "claims": 26
   },
   {
    "who": "@aiexey_stark",
@@ -162,17 +195,6 @@
    "claims": 1
   },
   {
-   "who": "@me_cool_off",
-   "date": "2026-11-02",
-   "venue": "Lighter",
-   "per_point": 2.3,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/me_cool_off/status/2116960721292472797",
-   "claims": 70
-  },
-  {
    "who": "@diditrading",
    "date": "2026-11-02",
    "venue": "Lighter",
@@ -195,17 +217,6 @@
    "claims": 17
   },
   {
-   "who": "@givenoxbt",
-   "date": "2026-10-21",
-   "venue": "TxFlow",
-   "per_point": 0.159,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/givenoxbt/status/2112628902145441861",
-   "claims": 36
-  },
-  {
    "who": "@airdrop_guard",
    "date": "2026-10-16",
    "venue": "Variational",
@@ -225,7 +236,7 @@
    "derived": false,
    "vs": "cheaper",
    "link": "https://x.com/trippan0/status/2105846312776470813",
-   "claims": 7
+   "claims": 8
   }
  ],
  "posts": []
