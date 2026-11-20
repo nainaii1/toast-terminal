@@ -1,13 +1,13 @@
 {
- "built_at": "20 Nov 2026, 12:58 MYT",
+ "built_at": "20 Nov 2026, 14:25 MYT",
  "day": 51,
  "days": 92,
  "to_date": {
-  "weeks": 6,
-  "points": 13.22,
-  "total": 162.77,
-  "per_point": 12.31,
-  "churn_per_point": 10.8
+  "weeks": 7,
+  "points": 15.62,
+  "total": 178.77,
+  "per_point": 11.44,
+  "churn_per_point": 9.19
  },
  "cap": 15.0,
  "weeks": [
@@ -70,6 +70,16 @@
    "other": 0.0,
    "total": 4.17,
    "per_point": 2.04
+  },
+  {
+   "week": 7,
+   "label": "12 Nov-19 Nov",
+   "points": 2.4,
+   "trips": 5,
+   "churn": 0.84,
+   "other": 15.16,
+   "total": 16.0,
+   "per_point": 6.67
   }
  ],
  "board": [
