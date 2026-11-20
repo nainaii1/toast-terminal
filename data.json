@@ -1,5 +1,5 @@
 {
- "built_at": "20 Nov 2026, 00:55 MYT",
+ "built_at": "20 Nov 2026, 12:58 MYT",
  "day": 51,
  "days": 92,
  "to_date": {
@@ -74,6 +74,39 @@
  ],
  "board": [
   {
+   "who": "@ryuzaki_sei",
+   "date": "2026-11-20",
+   "venue": "Variational",
+   "per_point": 2.26,
+   "pts_per_1m": 40.6,
+   "derived": true,
+   "vs": "cheaper",
+   "link": "https://x.com/Ryuzaki_SEI/status/2123601666511708196",
+   "claims": 39
+  },
+  {
+   "who": "@0xbaed",
+   "date": "2026-11-20",
+   "venue": "Variational",
+   "per_point": 3.4,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": "cheaper",
+   "link": "https://x.com/0xbaed/status/2123414490976845979",
+   "claims": 28
+  },
+  {
+   "who": "@givenoxbt",
+   "date": "2026-11-18",
+   "venue": "TxFlow",
+   "per_point": 0.149,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/givenoxbt/status/2122787995044683968",
+   "claims": 39
+  },
+  {
    "who": "@me_cool_off",
    "date": "2026-11-18",
    "venue": "TxFlow",
@@ -82,18 +115,7 @@
    "derived": true,
    "vs": null,
    "link": "https://x.com/me_cool_off/status/2122684062003302407",
-   "claims": 74
-  },
-  {
-   "who": "@givenoxbt",
-   "date": "2026-11-18",
-   "venue": "TxFlow",
-   "per_point": 0.149,
-   "pts_per_1m": 2881.6,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/givenoxbt/status/2122787995044683968",
-   "claims": 37
+   "claims": 75
   },
   {
    "who": "@matyv_7",
@@ -107,17 +129,6 @@
    "claims": 11
   },
   {
-   "who": "@0xbaed",
-   "date": "2026-11-15",
-   "venue": "Arcus",
-   "per_point": 0.19,
-   "pts_per_1m": 170.7,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/0xbaed/status/2121601764390469916",
-   "claims": 27
-  },
-  {
    "who": "@wasabu0x",
    "date": "2026-11-15",
    "venue": "Lighter",
@@ -129,17 +140,6 @@
    "claims": 18
   },
   {
-   "who": "@ryuzaki_sei",
-   "date": "2026-11-14",
-   "venue": "Variational",
-   "per_point": 4.0,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": "cheaper",
-   "link": "https://x.com/Ryuzaki_SEI/status/2121358182786404648",
-   "claims": 38
-  },
-  {
    "who": "@absoluto92",
    "date": "2026-11-14",
    "venue": "Bitbase",
@@ -148,7 +148,7 @@
    "derived": true,
    "vs": null,
    "link": "https://x.com/Absoluto92/status/2121330967595843705",
-   "claims": 27
+   "claims": 29
   },
   {
    "who": "@aiexey_stark",
