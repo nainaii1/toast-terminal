@@ -1,5 +1,5 @@
 {
- "built_at": "21 Nov 2026, 00:06 MYT",
+ "built_at": "21 Nov 2026, 14:19 MYT",
  "day": 52,
  "days": 92,
  "to_date": {
@@ -84,6 +84,50 @@
  ],
  "board": [
   {
+   "who": "@aiexey_stark",
+   "date": "2026-11-21",
+   "venue": "Lighter",
+   "per_point": 24.0,
+   "pts_per_1m": null,
+   "derived": false,
+   "vs": null,
+   "link": "https://x.com/AIexey_Stark/status/2123813988139930107",
+   "claims": 43
+  },
+  {
+   "who": "@matyv_7",
+   "date": "2026-11-21",
+   "venue": "Variational",
+   "per_point": null,
+   "pts_per_1m": 62.6,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/matyv_7/status/2123634644343980183",
+   "claims": 12
+  },
+  {
+   "who": "@0xbaed",
+   "date": "2026-11-21",
+   "venue": "Lighter",
+   "per_point": 1.1,
+   "pts_per_1m": 69.4,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/0xbaed/status/2123785392457470021",
+   "claims": 29
+  },
+  {
+   "who": "@0xchewa",
+   "date": "2026-11-21",
+   "venue": "Lighter",
+   "per_point": 2.49,
+   "pts_per_1m": 173.0,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/0xchewa/status/2123817312671199342",
+   "claims": 19
+  },
+  {
    "who": "@ryuzaki_sei",
    "date": "2026-11-20",
    "venue": "Variational",
@@ -92,18 +136,18 @@
    "derived": true,
    "vs": "cheaper",
    "link": "https://x.com/Ryuzaki_SEI/status/2123601666511708196",
-   "claims": 39
+   "claims": 41
   },
   {
-   "who": "@0xbaed",
-   "date": "2026-11-20",
-   "venue": "Variational",
-   "per_point": 3.4,
+   "who": "@me_cool_off",
+   "date": "2026-11-18",
+   "venue": "TxFlow",
+   "per_point": 0.06,
    "pts_per_1m": null,
    "derived": true,
-   "vs": "cheaper",
-   "link": "https://x.com/0xbaed/status/2123414490976845979",
-   "claims": 28
+   "vs": null,
+   "link": "https://x.com/me_cool_off/status/2122684062003302407",
+   "claims": 77
   },
   {
    "who": "@givenoxbt",
@@ -115,28 +159,6 @@
    "vs": null,
    "link": "https://x.com/givenoxbt/status/2122787995044683968",
    "claims": 39
-  },
-  {
-   "who": "@me_cool_off",
-   "date": "2026-11-18",
-   "venue": "TxFlow",
-   "per_point": 0.06,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/me_cool_off/status/2122684062003302407",
-   "claims": 75
-  },
-  {
-   "who": "@matyv_7",
-   "date": "2026-11-18",
-   "venue": "TxFlow",
-   "per_point": null,
-   "pts_per_1m": 7251.8,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/matyv_7/status/2122664514847965506",
-   "claims": 11
   },
   {
    "who": "@wasabu0x",
@@ -158,18 +180,7 @@
    "derived": true,
    "vs": null,
    "link": "https://x.com/Absoluto92/status/2121330967595843705",
-   "claims": 29
-  },
-  {
-   "who": "@aiexey_stark",
-   "date": "2026-11-14",
-   "venue": "Variational",
-   "per_point": 9.0,
-   "pts_per_1m": null,
-   "derived": false,
-   "vs": "cheaper",
-   "link": "https://x.com/AIexey_Stark/status/2121285764235276310",
-   "claims": 42
+   "claims": 30
   },
   {
    "who": "@zeus00nn",
@@ -180,7 +191,7 @@
    "derived": true,
    "vs": "cheaper",
    "link": "https://x.com/Zeus00nn/status/2121062947241996589",
-   "claims": 13
+   "claims": 14
   },
   {
    "who": "@0xriim",
@@ -214,17 +225,6 @@
    "vs": null,
    "link": "https://x.com/DidiTrading/status/2116965769229595108",
    "claims": 4
-  },
-  {
-   "who": "@0xchewa",
-   "date": "2026-10-28",
-   "venue": "Lighter",
-   "per_point": 3.9,
-   "pts_per_1m": null,
-   "derived": false,
-   "vs": null,
-   "link": "https://x.com/0xchewa/status/2115078834449940803",
-   "claims": 17
   },
   {
    "who": "@airdrop_guard",
