@@ -1,5 +1,5 @@
 {
- "built_at": "22 Nov 2026, 00:29 MYT",
+ "built_at": "22 Nov 2026, 13:36 MYT",
  "day": 53,
  "days": 92,
  "to_date": {
@@ -84,6 +84,17 @@
  ],
  "board": [
   {
+   "who": "@0xbaed",
+   "date": "2026-11-22",
+   "venue": "Lighter",
+   "per_point": 20.0,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/0xbaed/status/2124207259857158232",
+   "claims": 31
+  },
+  {
    "who": "@aiexey_stark",
    "date": "2026-11-21",
    "venue": "Lighter",
@@ -104,17 +115,6 @@
    "vs": null,
    "link": "https://x.com/matyv_7/status/2123634644343980183",
    "claims": 12
-  },
-  {
-   "who": "@0xbaed",
-   "date": "2026-11-21",
-   "venue": "Lighter",
-   "per_point": 1.1,
-   "pts_per_1m": 69.4,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/0xbaed/status/2123785392457470021",
-   "claims": 29
   },
   {
    "who": "@0xchewa",
