@@ -1,5 +1,5 @@
 {
- "built_at": "23 Nov 2026, 00:27 MYT",
+ "built_at": "23 Nov 2026, 13:14 MYT",
  "day": 54,
  "days": 92,
  "to_date": {
@@ -103,7 +103,18 @@
    "derived": false,
    "vs": null,
    "link": "https://x.com/AIexey_Stark/status/2123813988139930107",
-   "claims": 43
+   "claims": 44
+  },
+  {
+   "who": "@0xchewa",
+   "date": "2026-11-21",
+   "venue": "Lighter",
+   "per_point": 2.49,
+   "pts_per_1m": 173.0,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/0xchewa/status/2123817312671199342",
+   "claims": 20
   },
   {
    "who": "@matyv_7",
@@ -115,17 +126,6 @@
    "vs": null,
    "link": "https://x.com/matyv_7/status/2123634644343980183",
    "claims": 12
-  },
-  {
-   "who": "@0xchewa",
-   "date": "2026-11-21",
-   "venue": "Lighter",
-   "per_point": 2.49,
-   "pts_per_1m": 173.0,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/0xchewa/status/2123817312671199342",
-   "claims": 19
   },
   {
    "who": "@ryuzaki_sei",
@@ -180,7 +180,7 @@
    "derived": true,
    "vs": null,
    "link": "https://x.com/Absoluto92/status/2121330967595843705",
-   "claims": 30
+   "claims": 33
   },
   {
    "who": "@zeus00nn",
