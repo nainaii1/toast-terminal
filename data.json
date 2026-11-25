@@ -1,5 +1,5 @@
 {
- "built_at": "25 Nov 2026, 00:50 MYT",
+ "built_at": "25 Nov 2026, 14:12 MYT",
  "day": 56,
  "days": 92,
  "to_date": {
@@ -84,6 +84,61 @@
  ],
  "board": [
   {
+   "who": "@givenoxbt",
+   "date": "2026-11-25",
+   "venue": "TxFlow",
+   "per_point": 0.114,
+   "pts_per_1m": 3735.3,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/givenoxbt/status/2125215517069697116",
+   "claims": 40
+  },
+  {
+   "who": "@me_cool_off",
+   "date": "2026-11-25",
+   "venue": "TxFlow",
+   "per_point": 0.02,
+   "pts_per_1m": 4850.0,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/me_cool_off/status/2125229176424706141",
+   "claims": 80
+  },
+  {
+   "who": "@ryuzaki_sei",
+   "date": "2026-11-25",
+   "venue": "TxFlow",
+   "per_point": 3.0,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": null,
+   "link": "https://x.com/Ryuzaki_SEI/status/2125212626422727034",
+   "claims": 45
+  },
+  {
+   "who": "@absoluto92",
+   "date": "2026-11-25",
+   "venue": "Variational",
+   "per_point": 10.0,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": "cheaper",
+   "link": "https://x.com/Absoluto92/status/2125230947230511551",
+   "claims": 37
+  },
+  {
+   "who": "@alexwasabu",
+   "date": "2026-11-25",
+   "venue": "Lighter",
+   "per_point": 2.0,
+   "pts_per_1m": null,
+   "derived": false,
+   "vs": null,
+   "link": "https://x.com/alexwasabu/status/2125248440754159762",
+   "claims": 1
+  },
+  {
    "who": "@0xbaed",
    "date": "2026-11-22",
    "venue": "Lighter",
@@ -128,39 +183,6 @@
    "claims": 12
   },
   {
-   "who": "@ryuzaki_sei",
-   "date": "2026-11-20",
-   "venue": "Variational",
-   "per_point": 2.26,
-   "pts_per_1m": 40.6,
-   "derived": true,
-   "vs": "cheaper",
-   "link": "https://x.com/Ryuzaki_SEI/status/2123601666511708196",
-   "claims": 42
-  },
-  {
-   "who": "@me_cool_off",
-   "date": "2026-11-18",
-   "venue": "TxFlow",
-   "per_point": 0.06,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/me_cool_off/status/2122684062003302407",
-   "claims": 78
-  },
-  {
-   "who": "@givenoxbt",
-   "date": "2026-11-18",
-   "venue": "TxFlow",
-   "per_point": 0.149,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/givenoxbt/status/2122787995044683968",
-   "claims": 39
-  },
-  {
    "who": "@wasabu0x",
    "date": "2026-11-15",
    "venue": "Lighter",
@@ -170,17 +192,6 @@
    "vs": null,
    "link": "https://x.com/wasabu0x/status/2121632404515504230",
    "claims": 18
-  },
-  {
-   "who": "@absoluto92",
-   "date": "2026-11-14",
-   "venue": "Bitbase",
-   "per_point": 0.15,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": null,
-   "link": "https://x.com/Absoluto92/status/2121330967595843705",
-   "claims": 34
   },
   {
    "who": "@zeus00nn",
