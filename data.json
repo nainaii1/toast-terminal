@@ -1,5 +1,5 @@
 {
- "built_at": "26 Nov 2026, 00:44 MYT",
+ "built_at": "26 Nov 2026, 11:06 MYT",
  "day": 57,
  "days": 92,
  "to_date": {
@@ -84,6 +84,17 @@
  ],
  "board": [
   {
+   "who": "@absoluto92",
+   "date": "2026-11-25",
+   "venue": "Variational",
+   "per_point": 10.0,
+   "pts_per_1m": null,
+   "derived": true,
+   "vs": "cheaper",
+   "link": "https://x.com/Absoluto92/status/2125230947230511551",
+   "claims": 40
+  },
+  {
    "who": "@givenoxbt",
    "date": "2026-11-25",
    "venue": "TxFlow",
@@ -117,17 +128,6 @@
    "claims": 45
   },
   {
-   "who": "@absoluto92",
-   "date": "2026-11-25",
-   "venue": "Variational",
-   "per_point": 10.0,
-   "pts_per_1m": null,
-   "derived": true,
-   "vs": "cheaper",
-   "link": "https://x.com/Absoluto92/status/2125230947230511551",
-   "claims": 37
-  },
-  {
    "who": "@alexwasabu",
    "date": "2026-11-25",
    "venue": "Lighter",
@@ -147,7 +147,7 @@
    "derived": true,
    "vs": null,
    "link": "https://x.com/0xbaed/status/2124207259857158232",
-   "claims": 32
+   "claims": 33
   },
   {
    "who": "@aiexey_stark",
@@ -202,7 +202,7 @@
    "derived": true,
    "vs": "cheaper",
    "link": "https://x.com/Zeus00nn/status/2121062947241996589",
-   "claims": 14
+   "claims": 15
   },
   {
    "who": "@0xriim",
